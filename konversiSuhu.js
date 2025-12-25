@@ -9,3 +9,4 @@ console.log(chalk.red.underline('Nama: Restu Singgih & Diffa Syafiq Juhaeni'));
 console.log(chalk.green(`Suhu dalam Celcius; ${suhuCelcius}°C`));
 console.log(chalk.yellow(`Hasil konversi ke Fahrenheit: ${suhuFahrenheit}°F`));
 console.log(chalk.magenta('Terima kasih telah menggunakan program ini!')); 
+console.log(chalk.magenta('Dicoding oleh Restu Singgih dan Diffa Syafiq Juhaeni'));
